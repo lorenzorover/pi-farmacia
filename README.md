@@ -1,6 +1,8 @@
 # Projeto Integrador - Farmácia <br> Aplicação Web
 
-Projeto de conclusão do módulo “Programador Web”
+> Projeto de conclusão do módulo “Programador Web”
+
+___
 
 ![Language](https://img.shields.io/badge/java-black?label=language&labelColor=grey&color=%234caf50)
 ![Project Version](https://img.shields.io/badge/1.0-black?label=project%20version&labelColor=grey&color=%2365a535)
